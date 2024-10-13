@@ -1,4 +1,4 @@
-#Unscramordle by maybeinactive
+#Unscramordle by SirNooby
 print("Welcome to Unscramordle!\n")
 import random as r
 WordList = [
